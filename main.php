@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Order Step Indicator
- * Plugin URI: https://github.com/yourusername/woocommerce-order-step-indicator
+ * Plugin URI: https://github.com/amirrezashf/woocommerce-order-step-indicator
  * Description: Step-by-step visual order progress indicator for WooCommerce orders with AJAX admin controls and order list status column.
  * Version: 1.0.0
  * Author: Amirreza Shayesteh Far
